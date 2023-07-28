@@ -1,0 +1,483 @@
+/*navbar section starts*/
+@media (min-width:320px) and (max-width:767px)
+{
+	.container
+	{
+		width:100%;
+		/* margin:20px; */
+	}
+	.col_sm_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.header .dis_none
+	{
+		display:none;
+	}
+	.heading h3::after
+	{
+		left: 38%;
+	}
+
+	.nav_btn .get
+	{
+		margin-left: -12px;
+	}
+/*navbar section ends*/
+
+/*banner section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	/* .banner */
+	/* { */
+		/* height: 120vh; */
+	/* } */
+	/* .banner::before */
+	/* { */
+		/* height:120vh; */
+	/* } */
+	.ban_cnt 
+	{
+		margin-left:0;
+		filter: brightness(1);
+		text-align: center;
+	}
+	.ban_cnt h1 
+	{
+		font-size: 25px;
+		line-height: 1.5;
+	}
+	.ban_cnt h2
+	{
+		color: #fff;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.ban_cnt .get 
+	{
+		margin-top: 0;
+		margin-left:0;
+	}
+
+/*banner section ends*/
+
+/*client section starts*/
+	.col_sm_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.client .dis_none:nth-child(3)
+	{
+		display:none;
+	}
+	.client .dis_none:nth-child(4)
+	{
+		display:none;
+	}
+	.client .dis_none:nth-child(5)
+	{
+		display:none;
+	}
+	.client .dis_none:nth-child(6)
+	{
+		display:none;
+	}
+
+/*client section ends*/
+
+/*about section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.about .right
+	{
+		text-align:center;
+	}
+	.about .lefts
+	{
+		text-align:center;
+	}
+/*aout section ends*/
+
+/*features section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.features .feature
+	{
+		margin:20px 4px;
+	}
+/*features section ends*/
+
+/*others section starts*/
+
+	.other h3
+	{
+		display:none;
+	}
+	.other i 
+	{
+		font-size: 20px;
+		margin: 0 auto;
+	}
+	/*oher-frame div starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.order_1
+	{
+		order:1;
+	}
+	.order_2
+	{
+		order:2;
+	}
+/*oher-frame div ends*/
+/*others section ends*/
+
+/*service section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+
+/*service section ends*/
+
+/*portfolio section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+/*portfolio section ends*/
+
+/*testimonials section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.testimonials .dis_none
+	{
+		display:none;
+	}
+	.picture
+	{
+		padding:38px 17px;
+		margin:24px 0px;
+	}
+
+/*testimonials section ends */
+
+/*pricing sectionn starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+/*pricing section ends*/
+
+/*question section stars*/
+	.question i
+	{
+		right:0em;	
+	}
+
+/*question section ends*/
+
+/*team section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.team1
+	{
+		margin:10px;
+	}
+/*team section ends*/
+
+/*contact section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+/*contact section ends*/
+
+/*ends section starts*/
+	.col_sm_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.end2 h3{
+		margin-top: 8px;
+	}
+
+/*ends section ends*/
+
+}
+
+
+@media (min-width:768px) and (max-width:999px)
+{
+	.container
+	{
+		width:90%;
+	}
+/*header section stars*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.header .dis_none
+	{
+		display:none;
+	}
+/*header section ends*/
+
+/*banner section starts*/
+	.col_md_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	/* .banner */
+	/* { */
+		/* height:120vh; */
+	/* } */
+	/* .banner::before */
+	/* { */
+		/* height:120vh; */
+	/* } */
+	.ban_cnt
+	{
+		margin-top:0em;
+	}
+/*banner section ends*/
+
+/*client section starts*/
+	.col_md_3
+	{
+		width:25%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.client .dis_none:nth-child(5){
+		display: none;
+	}
+	.client .dis_none:nth-child(6){
+		display: none;
+	}
+/*client section ends*/	
+
+/*about section starts*/
+	.col_md_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.flex_item7
+	{
+		display:contents;
+	}
+/*about section ends*/
+
+/*features section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.features .feature
+	{
+		padding:50px 0px;
+		margin:25px 0px;
+	}
+/*features section ends*/
+
+/*others section starts*/	
+	.col_md_3
+	{
+		width:25%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.other h3
+	{
+		display:none;
+	}
+	
+	/*other-frame div starts*/
+		.col_md_12
+		{
+			width:100%;
+			flex:0 0 auto;
+			padding-left:15px;
+			padding-right:15px;
+		}
+		.order_1
+		{
+			order:1;
+		}
+		.order_2
+		{
+			order:2;
+		}
+	/*other-frame div ends*/
+/*others section ends*/
+
+/*service section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+/*service section ends*/
+
+/*portfolio section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+/*portfolio section ends*/
+
+/*testimonials section starts*/
+	.col_md_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.testimonials .dis_none
+	{
+		display:none;
+	}
+/*testimonials section ends*/
+
+/*pricing section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+
+/*pricing section ends*/
+
+/*team section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.team1
+	{
+		margin:10px 10px;
+	}
+/*team section ends*/
+
+/*contact section starts*/
+	.col_md_12
+	{
+		width:100%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	
+/*contact section ends*/
+
+/*ends section starts*/
+	.col_md_6
+	{
+		width:50%;
+		flex:0 0 auto;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	
+/*ends section ends*/
+}
+
+@media (min-width:1000px)
+{
+	.container
+	{
+		width:90%;
+	}
+	
+}
